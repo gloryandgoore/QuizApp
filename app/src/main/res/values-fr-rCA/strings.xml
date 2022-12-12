@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application de Quiz</string>
+    <string name="True">Vrai</string>
+    <string name="False">Faux</string>
+    <string name="quiz_question">Questionnaire</string>
+    <string name="Question1">Un fichier .class contient des bytecodes ?</string>
+    <string name="Question2">Dans une méthode d\'instance ou un constructeur, "this" est une référence à l\'objet courant.</string>
+    <string name="Question3">Garbage Collection est un processus manuel.</string>
+    <string name="Question4">La surcharge de constructeur n\'est pas possible en Java.</string>
+    <string name="Question5">L\'opérateur d\'affectation est évalué de gauche à droite</string>
+    <string name="Question6">Tous les opérateurs binaires, à l\'exception des opérateurs d\'affectation, sont évalués de gauche à droite</string>
+    <string name="Question7">La programmation Java n\'est pas typée statiquement, ce qui signifie que toutes les variables ne doivent pas d\'abord être déclarées avant de pouvoir être utilisées.</string>
+    <string name="Question8">Dans Java SE 7 et versions ultérieures, les caractères de soulignement "_" peuvent apparaître n\'importe où entre les chiffres d\'un littéral numérique</string>
+    <string name="Question9">Le nom de la variable peut commencer par une lettre, "$" ou "_".</string>
+    <string name="Question10">Les interfaces peuvent être instanciées.</string>
+    <string name="get_the_average">Obtenir la moyenne</string>
+    <string name="reset_results">Réinitialiser le résultat enregistr</string>
+    <string name="select_question">Sélectionnez le nombre de questions</string>
+    <string name="CorrectAnswer">Votre réponse est correcte</string>
+    <string name="IncorrectAnswer">Votre réponse est incorrecte</string>
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="your_score_is">Votre note est de</string>
+    <string name="out_of">sur</string>
+    <string name="your_correct_answers">Vos bonnes réponses sont </string>
+    <string name="in">en</string>
+    <string name="attempts">tentatives!!</string>
+</resources>
